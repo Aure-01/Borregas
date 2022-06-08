@@ -1,0 +1,53 @@
+CRITICAL - 2022-06-06 16:58:41 --> syntax error, unexpected token "<"
+#0 C:\xampp1\htdocs\lasBorregas\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp1\htdocs\lasBorregas\system\Common.php(1089): CodeIgniter\View\View->render('Pages/aumentarE...', Array, true)
+#2 C:\xampp1\htdocs\lasBorregas\app\Controllers\ApiController.php(335): view('Pages/aumentarE...', Array)
+#3 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(825): App\Controllers\ApiController->plantillaAumentarExistencia('1')
+#4 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#5 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp1\htdocs\lasBorregas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-06 17:31:10 --> Undefined variable $bloques
+#0 C:\xampp1\htdocs\lasBorregas\app\Views\Pages\admin.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp1\\htdoc...', 5)
+#1 C:\xampp1\htdocs\lasBorregas\system\View\View.php(210): include('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\lasBorregas\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp1\htdocs\lasBorregas\system\Common.php(1089): CodeIgniter\View\View->render('Pages/admin', Array, true)
+#4 C:\xampp1\htdocs\lasBorregas\app\Controllers\Home.php(24): view('Pages/admin')
+#5 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(825): App\Controllers\Home->view('admin')
+#6 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\lasBorregas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:31:22 --> Undefined variable $bloques
+#0 C:\xampp1\htdocs\lasBorregas\app\Views\Pages\admin.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp1\\htdoc...', 5)
+#1 C:\xampp1\htdocs\lasBorregas\system\View\View.php(210): include('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\lasBorregas\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp1\htdocs\lasBorregas\system\Common.php(1089): CodeIgniter\View\View->render('Pages/admin', Array, true)
+#4 C:\xampp1\htdocs\lasBorregas\app\Controllers\Home.php(24): view('Pages/admin')
+#5 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(825): App\Controllers\Home->view('admin')
+#6 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\lasBorregas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:31:49 --> Undefined variable $bloques
+#0 C:\xampp1\htdocs\lasBorregas\app\Views\Pages\admin.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp1\\htdoc...', 5)
+#1 C:\xampp1\htdocs\lasBorregas\system\View\View.php(210): include('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\lasBorregas\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp1\htdocs\lasBorregas\system\Common.php(1089): CodeIgniter\View\View->render('Pages/admin', Array, true)
+#4 C:\xampp1\htdocs\lasBorregas\app\Controllers\Home.php(24): view('Pages/admin')
+#5 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(825): App\Controllers\Home->view('admin')
+#6 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\lasBorregas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:32:27 --> Undefined variable $bloques
+#0 C:\xampp1\htdocs\lasBorregas\app\Views\Pages\admin.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp1\\htdoc...', 5)
+#1 C:\xampp1\htdocs\lasBorregas\system\View\View.php(210): include('C:\\xampp1\\htdoc...')
+#2 C:\xampp1\htdocs\lasBorregas\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp1\htdocs\lasBorregas\system\Common.php(1089): CodeIgniter\View\View->render('Pages/admin', Array, true)
+#4 C:\xampp1\htdocs\lasBorregas\app\Controllers\Home.php(24): view('Pages/admin')
+#5 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(825): App\Controllers\Home->view('admin')
+#6 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp1\htdocs\lasBorregas\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp1\htdocs\lasBorregas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
